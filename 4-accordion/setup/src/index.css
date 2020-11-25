@@ -191,6 +191,7 @@ main {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
 }
 .question header h4 {
   margin-bottom: 0;
